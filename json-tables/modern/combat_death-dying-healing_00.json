@@ -10,10 +10,10 @@
             "At 0 hit points , a character is disabled."
         ],
         [
-            "At from \u00961 to \u00969 hit points, a character is dying."
+            "At from &#x96;1 to &#x96;9 hit points, a character is dying."
         ],
         [
-            "At \u009610 or lower, a character is dead."
+            "At &#x96;10 or lower, a character is dead."
         ]
     ]
 }

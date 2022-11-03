@@ -9,10 +9,10 @@
     "rows": [
         [
             "The target wants to believe the character.",
-            "\u00965"
+            "&#x96;5"
         ],
         [
-            "The bluff is believable and doesn\u0092t affect the target much one way or the other.",
+            "The bluff is believable and doesn&#x92;t affect the target much one way or the other.",
             "+0"
         ],
         [
@@ -24,7 +24,7 @@
             "+10"
         ],
         [
-            "The bluff is way out there; it\u0092s almost too incredible to consider.",
+            "The bluff is way out there; it&#x92;s almost too incredible to consider.",
             "+20"
         ]
     ]

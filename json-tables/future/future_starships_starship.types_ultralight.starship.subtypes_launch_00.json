@@ -4,7 +4,7 @@
     "rows": [
         [
             "Type: Ultralight",
-            "Size: Huge (\u00962 size)"
+            "Size: Huge (&#x96;2 size)"
         ],
         [
             "Subtype: Launch",
@@ -35,15 +35,15 @@
             "Cargo Capacity: 2,400 lb."
         ],
         [
-            "Pilot\u0092s Class Bonus: +3",
+            "Pilot&#x92;s Class Bonus: +3",
             "Grapple Modifier: +8"
         ],
         [
-            "Pilot\u0092s Dex Modifier: +2",
+            "Pilot&#x92;s Dex Modifier: +2",
             "Base Purchase DC: 40"
         ],
         [
-            "Gunner\u0092s Attack Bonus: +2",
+            "Gunner&#x92;s Attack Bonus: +2",
             "Restriction: Licensed (+1)"
         ]
     ]

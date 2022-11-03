@@ -22,38 +22,38 @@
         [
             "Stationary 3",
             "0",
-            "\u0097",
+            "&#x97;",
             "0",
-            "\u0097",
+            "&#x97;",
             "+0",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Alley speed",
-            "1\u009620",
+            "1&#x96;20",
             "1",
-            "1\u00962",
+            "1&#x96;2",
             "1",
             "+0",
             "+0"
         ],
         [
             "Street speed",
-            "21\u009650",
+            "21&#x96;50",
             "2",
-            "3\u00965",
+            "3&#x96;5",
             "1",
             "+1",
-            "\u00961"
+            "&#x96;1"
         ],
         [
             "Highway speed",
-            "51\u0096150",
+            "51&#x96;150",
             "4",
-            "6\u009615",
+            "6&#x96;15",
             "2",
             "+2",
-            "\u00962"
+            "&#x96;2"
         ],
         [
             "All-out",
@@ -62,7 +62,7 @@
             "16+",
             "2",
             "+4",
-            "\u00964"
+            "&#x96;4"
         ],
         [
             "1 The number of squares a vehicle can move at this speed.  2 The number of squares a vehicle must move at this speed before making a turn.  3 A stationary vehicle cannot move or maneuver."

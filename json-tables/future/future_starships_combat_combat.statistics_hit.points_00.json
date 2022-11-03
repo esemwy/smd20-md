@@ -12,23 +12,23 @@
     "rows": [
         [
             "Ultralight",
-            "\u009620 hp"
+            "&#x96;20 hp"
         ],
         [
             "Light",
-            "\u009640 hp"
+            "&#x96;40 hp"
         ],
         [
             "Mediumweight",
-            "\u009660 hp"
+            "&#x96;60 hp"
         ],
         [
             "Heavy",
-            "\u009680 hp"
+            "&#x96;80 hp"
         ],
         [
             "Superheavy",
-            "\u0096100 hp"
+            "&#x96;100 hp"
         ]
     ]
 }

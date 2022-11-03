@@ -30,12 +30,12 @@
             "Tiny",
             "0.5 lb.",
             "6",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Chemical, truthtell",
             "Diminutive",
-            "\u0097",
+            "&#x97;",
             "8",
             "Lic (+1)"
         ],
@@ -44,38 +44,38 @@
             "Small",
             "1 lb.",
             "18",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Neural computer link",
             "Fine",
-            "\u0097",
+            "&#x97;",
             "25",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Neural network jack, wireless",
             "Fine",
-            "\u0097",
+            "&#x97;",
             "12",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Energy shield",
             "Tiny",
             "0.5 lb.",
             "16",
-            "\u0097"
+            "&#x97;"
         ],
         [
-            "Force field, personal (DR 5/\u0096)",
+            "Force field, personal (DR 5/&#x96;)",
             "Tiny",
             "0.5 lb.",
             "18",
             "Mil (+3)"
         ],
         [
-            "Force field, personal (DR 10/\u0096)",
+            "Force field, personal (DR 10/&#x96;)",
             "Tiny",
             "0.5 lb.",
             "22",
@@ -86,21 +86,21 @@
             "Small",
             "2 lb.",
             "6",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Hologram recorder",
             "Diminutive",
-            "\u0097",
+            "&#x97;",
             "9",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Hologuise",
             "Small",
             "1 lb.",
             "15",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Matter shield",
@@ -112,9 +112,9 @@
         [
             "Micro-aural communicator",
             "Fine",
-            "\u0097",
+            "&#x97;",
             "6",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Neural recorder",
@@ -135,14 +135,14 @@
             "Tiny",
             "0.5 lb.",
             "10",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Sensor, robocomp",
             "Small",
             "1 lb.",
             "18",
-            "\u0097"
+            "&#x97;"
         ]
     ]
 }

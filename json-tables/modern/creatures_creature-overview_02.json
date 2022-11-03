@@ -18,13 +18,13 @@
         ],
         [
             "Animal",
-            "\u0097",
-            "\u0097"
+            "&#x97;",
+            "&#x97;"
         ],
         [
             "Construct",
-            "\u0097",
-            "\u0097"
+            "&#x97;",
+            "&#x97;"
         ],
         [
             "Dragon",
@@ -63,8 +63,8 @@
         ],
         [
             "Ooze",
-            "\u0097",
-            "\u0097"
+            "&#x97;",
+            "&#x97;"
         ],
         [
             "Outsider",
@@ -73,8 +73,8 @@
         ],
         [
             "Plant",
-            "\u0097",
-            "\u0097"
+            "&#x97;",
+            "&#x97;"
         ],
         [
             "Undead",
@@ -83,8 +83,8 @@
         ],
         [
             "Vermin",
-            "\u0097",
-            "\u0097"
+            "&#x97;",
+            "&#x97;"
         ],
         [
             "1 Magical beasts with an Intelligence of 1 or 2 gain no bonus skills as they advance."

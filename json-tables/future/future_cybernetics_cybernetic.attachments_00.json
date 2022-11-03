@@ -11,19 +11,19 @@
     ],
     "rows": [
         [
-            "01\u009630",
+            "01&#x96;30",
             "Normal Effect"
         ],
         [
-            "31\u009660",
+            "31&#x96;60",
             "Attachment Disabled"
         ],
         [
-            "61\u009680",
+            "61&#x96;80",
             "Normal Effect and Attachment Disabled"
         ],
         [
-            "81\u0096100",
+            "81&#x96;100",
             "Attachment Damaged and Side Effect"
         ]
     ]

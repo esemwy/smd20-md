@@ -15,7 +15,7 @@
             "Med",
             "3 lb.",
             "10",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Binoculars"
@@ -25,56 +25,56 @@
             "Small",
             "2 lb.",
             "7",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Rangefinding",
             "Small",
             "3 lb.",
             "15",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Electro-optical",
             "Small",
             "4 lb.",
             "16",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Chemical light sticks (5)",
             "Tiny",
             "1 lb.",
             "2",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Climbing gear",
             "Large",
             "10 lb.",
             "11",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Compass",
             "Dim",
             "0.5 lb.",
             "5",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Fire extinguisher",
             "Med",
             "3 lb.",
             "8",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Flash goggles",
             "Tiny",
             "2 lb.",
             "15",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Flashlight"
@@ -84,35 +84,35 @@
             "Dim",
             "0.5 lb.",
             "3",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Standard",
             "Tiny",
             "1 lb.",
             "4",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Battery flood",
             "Small",
             "2 lb.",
             "6",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Gas mask",
             "Small",
             "5 lb.",
             "13",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "GPS receiver",
             "Tiny",
             "1 lb.",
             "15",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Map"
@@ -122,42 +122,42 @@
             "Tiny",
             "1 lb.",
             "4",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Tactical map",
             "Tiny",
             "0.5 lb.",
             "3",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Mesh vest",
             "Med",
             "7 lb.",
             "8",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Portable stove",
             "Tiny",
             "1 lb.",
             "9",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Rope (150 ft.)",
             "Large",
             "12 lb.",
             "5",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Sleeping bag",
             "Med",
             "4 lb.",
             "9",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Tent"
@@ -167,28 +167,28 @@
             "Med",
             "4 lb.",
             "11",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "4-person dome",
             "Med",
             "7 lb.",
             "12",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "8-person dome",
             "Large",
             "10 lb.",
             "13",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Trail rations (12)",
             "Tiny",
             "1 lb.",
             "5",
-            "\u0097"
+            "&#x97;"
         ]
     ]
 }

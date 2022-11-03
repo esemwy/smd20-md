@@ -7,10 +7,10 @@
         [
             "Crew Quality",
             "Skill Check Modifier 1",
-            "Pilot\u0092s Class Bonus to Defense",
-            "Pilot\u0092s Dexterity Modifier",
-            "Gunner\u0092s Modifier to Attack Bonus",
-            "Starship\u0092s Base Purchase DC"
+            "Pilot&#x92;s Class Bonus to Defense",
+            "Pilot&#x92;s Dexterity Modifier",
+            "Gunner&#x92;s Modifier to Attack Bonus",
+            "Starship&#x92;s Base Purchase DC"
         ]
     ],
     "rows": [
@@ -19,8 +19,8 @@
             "+0",
             "+1",
             "+0",
-            "\u00964",
-            "\u00964"
+            "&#x96;4",
+            "&#x96;4"
         ],
         [
             "Trained",

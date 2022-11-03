@@ -31,51 +31,51 @@
         [
             "Chemical, antitox",
             "Diminutive",
-            "\u0097",
+            "&#x97;",
             "6",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Chemical, boost",
             "Diminutive",
-            "\u0097",
+            "&#x97;",
             "6",
             "Illegal (+4)"
         ],
         [
             "Chemical, neutrad",
             "Diminutive",
-            "\u0097",
+            "&#x97;",
             "6",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Chemical, solvaway",
             "Diminutive",
-            "\u0097",
+            "&#x97;",
             "5",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Chemical, sporekill",
             "Diminutive",
-            "\u0097",
+            "&#x97;",
             "6",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Medkit, advanced",
             "Small",
             "3 lb.",
             "7",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Medkit, fast use",
             "Small",
             "3 lb.",
             "7",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Plastic surgery kit, personal",
@@ -87,37 +87,37 @@
         [
             "Computer, card",
             "Diminutive",
-            "\u0097",
+            "&#x97;",
             "22",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Display contacts",
             "Fine",
-            "\u0097",
+            "&#x97;",
             "16",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Disguise kit, morphic",
             "Tiny",
             "1 lb.",
             "12",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Flash-seal",
             "Tiny",
             "1 lb.",
             "8",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Fusion torch",
             "Medium",
             "3 lb.",
             "10",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Intellipicks",
@@ -145,42 +145,42 @@
             "Tiny",
             "0.5 lb.",
             "6",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Sensor, chemicomp",
             "Small",
             "1 lb.",
             "18",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Sensor, geocomp",
             "Small",
             "1 lb.",
             "18",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Sensor, motion",
             "Tiny",
             "0.5 lb.",
             "14",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Aquaconverter",
             "Medium",
             "4 lb.",
             "13",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Violet rations",
             "Fine",
-            "\u0097",
+            "&#x97;",
             "5",
-            "\u0097"
+            "&#x97;"
         ]
     ]
 }

@@ -19,9 +19,9 @@
         [
             "A3X Dragon flame thrower",
             "4d6",
-            "\u0097",
+            "&#x97;",
             "Fire",
-            "\u0097",
+            "&#x97;",
             "Single",
             "20 int.",
             "Large",
@@ -45,9 +45,9 @@
         [
             "M-53 Firestar rocket launcher",
             "10d6",
-            "\u0097",
+            "&#x97;",
             "Fire",
-            "\u0097",
+            "&#x97;",
             "Single",
             "6 int.",
             "Huge",
@@ -58,9 +58,9 @@
         [
             "M-55 Crud rocket launcher",
             "10d6",
-            "\u0097",
+            "&#x97;",
             "Slashing",
-            "\u0097",
+            "&#x97;",
             "Single",
             "6 int.",
             "Huge",
@@ -73,7 +73,7 @@
             "15d6",
             "20",
             "Ballistic/ Fire",
-            "\u0097",
+            "&#x97;",
             "Single",
             "4 int.",
             "Huge",
@@ -84,28 +84,28 @@
         [
             "PS-15 Panther claws",
             "Varies 1",
-            "19\u009620",
+            "19&#x96;20",
             "Slashing",
-            "\u0097",
-            "\u0097",
-            "\u0097",
+            "&#x97;",
+            "&#x97;",
+            "&#x97;",
             "Varies 1",
-            "\u0097",
+            "&#x97;",
             "Varies 1",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Thunderbolt shock rod",
             "Varies 1",
             "20",
             "Electricity/ Bludgeoning",
-            "\u0097",
-            "\u0097",
-            "\u0097",
+            "&#x97;",
+            "&#x97;",
+            "&#x97;",
             "Varies 1",
-            "\u0097",
+            "&#x97;",
             "Varies 1",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Warpath recoilless rifle",
@@ -121,7 +121,7 @@
             "Mil (+3)"
         ],
         [
-            "1 See the weapon\u0092s description for details.  2 See the weapon\u0092s description for collateral effects to crew and passengers.  3 This mastercraft weapon grants a +1 bonus on attack rolls."
+            "1 See the weapon&#x92;s description for details.  2 See the weapon&#x92;s description for collateral effects to crew and passengers.  3 This mastercraft weapon grants a +1 bonus on attack rolls."
         ]
     ]
 }

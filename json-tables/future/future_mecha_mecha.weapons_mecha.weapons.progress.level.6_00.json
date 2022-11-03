@@ -23,7 +23,7 @@
             "Fire",
             "15 ft.",
             "Single",
-            "\u0097",
+            "&#x97;",
             "Large",
             "15 lb.",
             "19",
@@ -34,13 +34,13 @@
             "Varies 1",
             "3",
             "Piercing",
-            "\u0097",
-            "\u0097",
-            "\u0097",
+            "&#x97;",
+            "&#x97;",
+            "&#x97;",
             "Varies 1",
-            "\u0097",
+            "&#x97;",
             "Varies 1",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "M-21 Comet autolaser",
@@ -49,7 +49,7 @@
             "Fire",
             "75 ft.",
             "S, A",
-            "\u0097",
+            "&#x97;",
             "Huge",
             "40 lb.",
             "22",
@@ -60,7 +60,7 @@
             "10d6 2",
             "20",
             "Electricity",
-            "\u0097",
+            "&#x97;",
             "Single",
             "6 int.",
             "Huge",
@@ -71,9 +71,9 @@
         [
             "M-75 Cricket rocket launcher",
             "10d6 2",
-            "\u0097",
+            "&#x97;",
             "Sonic",
-            "\u0097",
+            "&#x97;",
             "Single",
             "6 int.",
             "Huge",
@@ -88,7 +88,7 @@
             "Fire",
             "75 ft.",
             "Single",
-            "\u0097",
+            "&#x97;",
             "Large",
             "20 lb.",
             "23",
@@ -114,14 +114,14 @@
             "Fire",
             "100 ft.",
             "Single",
-            "\u0097",
+            "&#x97;",
             "Huge",
             "80 lb.",
             "25",
             "Mil (+3)"
         ],
         [
-            "1 See the weapon\u0092s description for details.  2 See the weapon\u0092s description for collateral effects to crew and passengers.  3 This mastercraft weapon grants a +1 bonus on attack rolls."
+            "1 See the weapon&#x92;s description for details.  2 See the weapon&#x92;s description for collateral effects to crew and passengers.  3 This mastercraft weapon grants a +1 bonus on attack rolls."
         ]
     ]
 }

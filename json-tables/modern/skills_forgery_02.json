@@ -3,17 +3,17 @@
     "headers": [
         [
             "Condition",
-            "Examiner\u0092s Check Modifier"
+            "Examiner&#x92;s Check Modifier"
         ]
     ],
     "rows": [
         [
             "Type of document unknown to examiner",
-            "\u00964"
+            "&#x96;4"
         ],
         [
             "Type of document somewhat known to examiner",
-            "\u00962"
+            "&#x96;2"
         ],
         [
             "Type of document well known to examiner",
@@ -25,7 +25,7 @@
         ],
         [
             "Examiner only casually reviews the document 1",
-            "\u00962"
+            "&#x96;2"
         ],
         [
             "1 Cumulative with any of the first three conditions on the table. Apply this modifier along with one of the other three whenever appropriate."

@@ -11,43 +11,43 @@
     ],
     "rows": [
         [
-            "01\u009615",
+            "01&#x96;15",
             "Normal damage, crew dazed"
         ],
         [
-            "16\u009635",
+            "16&#x96;35",
             "Normal critical hit, crew dazed"
         ],
         [
-            "36\u009645",
+            "36&#x96;45",
             "Normal critical hit, mecha knocked prone"
         ],
         [
-            "46\u009650",
+            "46&#x96;50",
             "Severe critical hit, crew dazed, mecha stunned"
         ],
         [
-            "51\u009655",
+            "51&#x96;55",
             "Severe critical hit, mecha knocked prone"
         ],
         [
-            "56\u009660",
+            "56&#x96;60",
             "Crew hit (normal damage)"
         ],
         [
-            "61\u009670",
+            "61&#x96;70",
             "Normal damage, equipment damaged"
         ],
         [
-            "71\u009680",
+            "71&#x96;80",
             "Normal damage, equipment destroyed"
         ],
         [
-            "81\u009690",
+            "81&#x96;90",
             "Normal critical hit, slot damaged"
         ],
         [
-            "91\u0096100",
+            "91&#x96;100",
             "Normal critical hit, slot destroyed"
         ]
     ]

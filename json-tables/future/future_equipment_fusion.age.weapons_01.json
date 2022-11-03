@@ -20,24 +20,24 @@
         [
             "High frequency sword",
             "2d6",
-            "19\u009620",
+            "19&#x96;20",
             "Slashing",
-            "\u0097",
+            "&#x97;",
             "Large",
             "2 lb.",
             "15",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Stun baton",
             "1d6 + special",
             "20",
             "Bludgeoning",
-            "\u0097",
+            "&#x97;",
             "Medium",
             "1 lb.",
             "16",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "1 All weapons listed in this table require the Simple Weapons Proficiency feat."

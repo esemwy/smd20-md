@@ -9,7 +9,7 @@
     "rows": [
         [
             "Ropes",
-            "Opponent\u0092s Dex check +20"
+            "Opponent&#x92;s Dex check +20"
         ],
         [
             "Net",
@@ -25,7 +25,7 @@
         ],
         [
             "Grappler",
-            "Opponent\u0092s grapple check"
+            "Opponent&#x92;s grapple check"
         ]
     ]
 }

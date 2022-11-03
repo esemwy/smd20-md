@@ -4,7 +4,7 @@
     "rows": [
         [
             "Type: Superheavy",
-            "Size: Colossal (\u00968 size)"
+            "Size: Colossal (&#x96;8 size)"
         ],
         [
             "Subtype: Colony ship",
@@ -35,15 +35,15 @@
             "Cargo Capacity: 100,000 tons"
         ],
         [
-            "Pilot\u0092s Class Bonus: +3",
+            "Pilot&#x92;s Class Bonus: +3",
             "Grapple Modifier: +16"
         ],
         [
-            "Pilot\u0092s Dex Modifier: +2",
+            "Pilot&#x92;s Dex Modifier: +2",
             "Base Purchase DC: 72"
         ],
         [
-            "Gunner\u0092s Attack Bonus: +2",
+            "Gunner&#x92;s Attack Bonus: +2",
             "Restriction: Restricted (+2)"
         ]
     ]

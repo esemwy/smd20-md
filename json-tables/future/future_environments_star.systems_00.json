@@ -5,13 +5,13 @@
             "Table: Star Systems"
         ],
         [
-            "Star\u0092s System\u0092s Classification",
+            "Star&#x92;s System&#x92;s Classification",
             "Degree of Ionizing Radiation 1",
             "Number of Planets"
         ],
         [
-            "Non-Main Sequence Star\u0092s Classification",
-            "System\u0092s Degree of Ionizing Radiation 1",
+            "Non-Main Sequence Star&#x92;s Classification",
+            "System&#x92;s Degree of Ionizing Radiation 1",
             "Number of Planets"
         ]
     ],
@@ -53,12 +53,12 @@
         [
             "Black hole",
             "Highly irradiated",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Neutron star",
             "Severely irradiated",
-            "1d4\u00961"
+            "1d4&#x96;1"
         ],
         [
             "White dwarf",
@@ -78,7 +78,7 @@
         [
             "Red supergiant",
             "Highly irradiated",
-            "1d4\u00961"
+            "1d4&#x96;1"
         ],
         [
             "1 Refer to Table: Radiation Exposure for details."

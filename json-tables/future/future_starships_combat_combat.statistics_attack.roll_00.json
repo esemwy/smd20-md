@@ -6,17 +6,17 @@
         ],
         [
             "Starship Size",
-            "Starship\u0092s Size Modifier 1",
-            "Targeting System\u0092s Equipment Bonus 2",
-            "Autopilot System\u0092s Equipment Bonus 3",
-            "Starship\u0092s Length",
-            "Starship\u0092s Weight"
+            "Starship&#x92;s Size Modifier 1",
+            "Targeting System&#x92;s Equipment Bonus 2",
+            "Autopilot System&#x92;s Equipment Bonus 3",
+            "Starship&#x92;s Length",
+            "Starship&#x92;s Weight"
         ]
     ],
     "rows": [
         [
             "Colossal",
-            "\u00968",
+            "&#x96;8",
             "+3",
             "+3",
             "64 ft. or more",
@@ -24,22 +24,22 @@
         ],
         [
             "Gargantuan",
-            "\u00964",
+            "&#x96;4",
             "+2",
             "+2",
-            "32\u009664 ft.",
-            "32,000\u0096250,000 lb."
+            "32&#x96;64 ft.",
+            "32,000&#x96;250,000 lb."
         ],
         [
             "Huge",
-            "\u00962",
+            "&#x96;2",
             "+1",
             "+1",
             "Less than 32 ft. 4",
-            ",000\u009632,000 lb."
+            ",000&#x96;32,000 lb."
         ],
         [
-            "1 A starship applies its size modifier on all attack rolls and to its Defense.  2 A starship applies its targeting system\u0092s equipment bonus on all attack rolls.  3 A starship on autopilot applies its autopilot system\u0092s equipment bonus to its Defense."
+            "1 A starship applies its size modifier on all attack rolls and to its Defense.  2 A starship applies its targeting system&#x92;s equipment bonus on all attack rolls.  3 A starship on autopilot applies its autopilot system&#x92;s equipment bonus to its Defense."
         ]
     ]
 }

@@ -27,12 +27,12 @@
             "Tiny",
             "1 lb.",
             "12",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Hackcard",
             "Diminutive",
-            "\u0097",
+            "&#x97;",
             "14",
             "Lic (+1)"
         ],
@@ -41,84 +41,84 @@
             "Medium",
             "3 lb.",
             "4",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Grappler tag",
             "Tiny",
             "1 lb.",
             "5",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Explorer outfit",
             "Medium",
             "2 lb.",
             "6",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Heads-up display",
             "Tiny",
             "1 lb.",
             "7",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Laser tripwire",
             "Diminutive",
-            "\u0097",
+            "&#x97;",
             "5",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Nanobeacon",
             "Fine",
-            "\u0097",
+            "&#x97;",
             "8",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Shepherd chip",
             "Fine",
-            "\u0097",
+            "&#x97;",
             "12",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Spray LCD",
             "Tiny",
             "0.5 lb.",
             "8",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Portable environment generator",
             "Medium",
             "5 lb.",
             "13",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Portable glow lamp",
             "Tiny",
             "0.5 lb.",
             "4",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Puritizer",
             "Small",
             "2 lb.",
             "9",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Soother pulse",
             "Diminutive",
-            "\u0097",
+            "&#x97;",
             "14",
-            "\u0097"
+            "&#x97;"
         ]
     ]
 }

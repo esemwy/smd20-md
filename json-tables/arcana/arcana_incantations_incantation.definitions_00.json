@@ -39,31 +39,31 @@
     "rows": [
         [
             "Requires skill check other than Knowledge (arcane lore)",
-            "\u00961"
+            "&#x96;1"
         ],
         [
             "1 hour between checks",
-            "\u00961"
+            "&#x96;1"
         ],
         [
             "Touch to Close/Close to Touch",
-            "+2/\u00962"
+            "+2/&#x96;2"
         ],
         [
             "Close to Medium/Medium to Close",
-            "+2/\u00962"
+            "+2/&#x96;2"
         ],
         [
             "Medium to Long/Long to Medium",
-            "+2/\u00962"
+            "+2/&#x96;2"
         ],
         [
             "Unwilling target must be helpless",
-            "\u00962"
+            "&#x96;2"
         ],
         [
             "Limited targets (by HD, creature type, etc.)",
-            "\u00963"
+            "&#x96;3"
         ],
         [
             "Single target to multiple targets",
@@ -71,79 +71,79 @@
         ],
         [
             "Rounds to minutes/minutes to rounds",
-            "+2/\u00962"
+            "+2/&#x96;2"
         ],
         [
             "Minutes to hours/hours to minutes",
-            "+4/\u00962"
+            "+4/&#x96;2"
         ],
         [
             "Hours to days /days to hours",
-            "+6/\u00962"
+            "+6/&#x96;2"
         ],
         [
             "Days to permanent/permanent to days",
-            "+10/\u00964"
+            "+10/&#x96;4"
         ],
         [
-            "Expensive component (purchase DC 20\u009624)",
-            "\u00961"
+            "Expensive component (purchase DC 20&#x96;24)",
+            "&#x96;1"
         ],
         [
-            "Expensive component (purchase DC 25\u009629)",
-            "\u00962"
+            "Expensive component (purchase DC 25&#x96;29)",
+            "&#x96;2"
         ],
         [
             "Expensive component (purchase DC 30+)",
-            "\u00964"
+            "&#x96;4"
         ],
         [
-            "Expensive focus (purchase DC 25\u009629)",
-            "\u00961"
+            "Expensive focus (purchase DC 25&#x96;29)",
+            "&#x96;1"
         ],
         [
             "Expensive focus (purchase DC 30+)",
-            "\u00962"
+            "&#x96;2"
         ],
         [
             "per 100 XP (max 1,000 XP)",
-            "\u00961"
+            "&#x96;1"
         ],
         [
             "Up to 10 secondary casters",
-            "\u00962"
+            "&#x96;2"
         ],
         [
-            "11\u0096100 secondary casters",
-            "\u00966"
+            "11&#x96;100 secondary casters",
+            "&#x96;6"
         ],
         [
             "101+ secondary casters",
-            "\u009610"
+            "&#x96;10"
         ],
         [
             "Per 2d6 points of damage",
-            "\u00961"
+            "&#x96;1"
         ],
         [
             "Caster is exhausted",
-            "\u00962"
+            "&#x96;2"
         ],
         [
             "Per negative level caster suffers",
-            "\u00962"
+            "&#x96;2"
         ],
         [
-            "Caster reduced to \u00961 hp",
-            "\u00963"
+            "Caster reduced to &#x96;1 hp",
+            "&#x96;3"
         ],
         [
             "Caster infected with disease",
-            "\u00964"
+            "&#x96;4"
         ],
         [
             "Backlash affects secondary casters too",
-            "\u00961"
+            "&#x96;1"
         ]
     ]
 }

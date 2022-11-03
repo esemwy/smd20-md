@@ -4,7 +4,7 @@
     "rows": [
         [
             "Type: Mediumweight",
-            "Size: Colossal (\u00968 size)"
+            "Size: Colossal (&#x96;8 size)"
         ],
         [
             "Subtype: Strike cruiser",
@@ -35,15 +35,15 @@
             "Cargo Capacity: 1,200 tons"
         ],
         [
-            "Pilot\u0092s Class Bonus: +5",
+            "Pilot&#x92;s Class Bonus: +5",
             "Grapple Modifier: +16"
         ],
         [
-            "Pilot\u0092s Dex Modifier: +4",
+            "Pilot&#x92;s Dex Modifier: +4",
             "Base Purchase DC: 68"
         ],
         [
-            "Gunner\u0092s Attack Bonus: +4",
+            "Gunner&#x92;s Attack Bonus: +4",
             "Restriction: Military (+3)"
         ]
     ]

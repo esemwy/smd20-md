@@ -2,14 +2,14 @@
     "caption": "",
     "headers": [
         [
-            "Item\u0092s Nature",
+            "Item&#x92;s Nature",
             "FX Modifier"
         ]
     ],
     "rows": [
         [
             "Single-use item",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Continuous effect or bonus",

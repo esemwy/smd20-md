@@ -19,11 +19,11 @@
         [
             "40mm fragmentation grenade",
             "3d6",
-            "\u0097",
+            "&#x97;",
             "Slashing",
             "10 ft.",
             "15",
-            "\u0097",
+            "&#x97;",
             "Tiny",
             "1 lb.",
             "16",
@@ -32,11 +32,11 @@
         [
             "C4/Semtex",
             "4d6",
-            "\u0097",
+            "&#x97;",
             "Concussion",
             "10 ft.",
             "18",
-            "\u0097",
+            "&#x97;",
             "Small",
             "1 lb.",
             "12",
@@ -45,11 +45,11 @@
         [
             "Det cord",
             "2d6",
-            "\u0097",
+            "&#x97;",
             "Fire",
             "See text",
             "12",
-            "\u0097",
+            "&#x97;",
             "Med",
             "2 lb.",
             "8",
@@ -58,7 +58,7 @@
         [
             "Dynamite",
             "2d6",
-            "\u0097",
+            "&#x97;",
             "Concussion",
             "5 ft.",
             "15",
@@ -71,7 +71,7 @@
         [
             "Fragmentation grenade",
             "4d6",
-            "\u0097",
+            "&#x97;",
             "Slashing",
             "20 ft.",
             "15",
@@ -83,24 +83,24 @@
         ],
         [
             "Smoke grenade",
-            "\u0097",
-            "\u0097",
-            "\u0097",
+            "&#x97;",
+            "&#x97;",
+            "&#x97;",
             "See text",
-            "\u0097",
+            "&#x97;",
             "10 ft.",
             "Small",
             "2 lb.",
             "10",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Tear gas grenade",
             "See text",
-            "\u0097",
-            "\u0097",
+            "&#x97;",
+            "&#x97;",
             "See text",
-            "\u0097",
+            "&#x97;",
             "10 ft.",
             "Small",
             "2 lb.",
@@ -110,7 +110,7 @@
         [
             "Thermite grenade",
             "6d6",
-            "\u0097",
+            "&#x97;",
             "Fire",
             "5 ft.",
             "12",
@@ -123,7 +123,7 @@
         [
             "White phosphorus grenade",
             "2d6",
-            "\u0097",
+            "&#x97;",
             "Fire",
             "20 ft.",
             "12",
@@ -134,7 +134,7 @@
             "Mil (+3)"
         ],
         [
-            "1 This weapon cannot be purchased as an item; the purchase DC given is for the weapon\u0092s components.  2 Threat range applies to direct hits only; splash damage does not threaten a critical hit."
+            "1 This weapon cannot be purchased as an item; the purchase DC given is for the weapon&#x92;s components.  2 Threat range applies to direct hits only; splash damage does not threaten a critical hit."
         ]
     ]
 }

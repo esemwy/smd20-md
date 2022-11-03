@@ -22,7 +22,7 @@
         [
             "Grenade, concussion",
             "4d6 nonlethal",
-            "\u0097",
+            "&#x97;",
             "Concussion",
             "15 ft.",
             "15",
@@ -35,7 +35,7 @@
         [
             "Grenade, EMP",
             "Special 1",
-            "\u0097",
+            "&#x97;",
             "Electricity",
             "20 ft.",
             "15",
@@ -48,7 +48,7 @@
         [
             "Grenade, fireflush",
             "3d6",
-            "\u0097",
+            "&#x97;",
             "Fire",
             "10 ft.",
             "15",
@@ -61,8 +61,8 @@
         [
             "Grenade, tangler",
             "Special 1",
-            "\u0097",
-            "\u0097",
+            "&#x97;",
+            "&#x97;",
             "5 ft.",
             "12",
             "10 ft.",

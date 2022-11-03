@@ -86,7 +86,7 @@
             "Inhaled",
             "17",
             "Unconsciousness 1d3 hours",
-            "\u0097",
+            "&#x97;",
             "9",
             "Res (+2)",
             "24",
@@ -262,7 +262,7 @@
             "Inhaled",
             "15",
             "Nauseated 1d6 rounds",
-            "\u0097",
+            "&#x97;",
             "9",
             "Res (+2)",
             "21",
@@ -280,7 +280,7 @@
             "48 hr."
         ],
         [
-            "1 Chloroform gives off vapor that causes unconsciousness. Applying chloroform to an unwilling subject requires a successful grapple check and pin. n/a: Certain poisons can\u0092t be made with the Craft skill. Instead, such a poison must be obtained by extracting it from the creature in question."
+            "1 Chloroform gives off vapor that causes unconsciousness. Applying chloroform to an unwilling subject requires a successful grapple check and pin. n/a: Certain poisons can&#x92;t be made with the Craft skill. Instead, such a poison must be obtained by extracting it from the creature in question."
         ]
     ]
 }

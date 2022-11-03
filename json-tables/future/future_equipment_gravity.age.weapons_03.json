@@ -22,7 +22,7 @@
         [
             "Grenade, dissolver",
             "2d6",
-            "\u0097",
+            "&#x97;",
             "Acid",
             "5 ft.",
             "15",
@@ -35,7 +35,7 @@
         [
             "Grenade, gravitic",
             "6d6",
-            "\u0097",
+            "&#x97;",
             "Bludgeoning",
             "10 ft.",
             "15",
@@ -48,8 +48,8 @@
         [
             "Grenade, stun",
             "Special 1",
-            "\u0097",
-            "\u0097",
+            "&#x97;",
+            "&#x97;",
             "10 ft.",
             "18",
             "10 ft.",

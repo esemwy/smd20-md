@@ -25,23 +25,23 @@
         [
             "Chemical, biocort",
             "Diminutive",
-            "\u0097",
+            "&#x97;",
             "6",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "GalPos device",
             "Small",
             "3 lb.",
             "6",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Grappling tether",
             "Small",
             "2 lb.",
             "9",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Piercing visor",
@@ -55,7 +55,7 @@
             "Medium",
             "3 lb.",
             "8",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Projectile deflector",
@@ -69,7 +69,7 @@
             "Small",
             "1 lb.",
             "18",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Sensor, democomp",
@@ -83,14 +83,14 @@
             "Small",
             "1 lb.",
             "18",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Sensor, mechanicomp",
             "Small",
             "1 lb.",
             "18",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Sensor, medicomp",

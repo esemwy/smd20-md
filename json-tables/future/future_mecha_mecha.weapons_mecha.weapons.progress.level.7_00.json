@@ -19,9 +19,9 @@
         [
             "Chrysanthemum laser array",
             "16d6",
-            "\u0097",
+            "&#x97;",
             "Fire",
-            "\u0097",
+            "&#x97;",
             "Single",
             "1 int.",
             "Huge",
@@ -36,7 +36,7 @@
             "Ballistic",
             "100 ft.",
             "Single",
-            "\u0097",
+            "&#x97;",
             "Huge",
             "65 lb.",
             "29",
@@ -45,15 +45,15 @@
         [
             "PS-25 Tiger claws",
             "Varies 1",
-            "19\u009620",
+            "19&#x96;20",
             "Slashing",
-            "\u0097",
-            "\u0097",
-            "\u0097",
+            "&#x97;",
+            "&#x97;",
+            "&#x97;",
             "Varies 1",
-            "\u0097",
+            "&#x97;",
             "Varies 1",
-            "\u0097"
+            "&#x97;"
         ],
         [
             "Tsunami 480 plasma cannon",
@@ -62,7 +62,7 @@
             "Fire",
             "See text",
             "Single",
-            "\u0097",
+            "&#x97;",
             "Huge",
             "75 lb.",
             "25",
@@ -73,16 +73,16 @@
             "Varies 1",
             "20",
             "Electricity",
-            "\u0097",
-            "\u0097",
-            "\u0097",
+            "&#x97;",
+            "&#x97;",
+            "&#x97;",
             "Varies 1",
-            "\u0097",
+            "&#x97;",
             "Varies 1",
-            "\u0097"
+            "&#x97;"
         ],
         [
-            "1 See the weapon\u0092s description for details.  2 See the weapon\u0092s description for collateral effects to crew and passengers.  3 This mastercraft weapon grants a +1 bonus on attack rolls."
+            "1 See the weapon&#x92;s description for details.  2 See the weapon&#x92;s description for collateral effects to crew and passengers.  3 This mastercraft weapon grants a +1 bonus on attack rolls."
         ]
     ]
 }

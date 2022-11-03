@@ -12,27 +12,27 @@
     "rows": [
         [
             "Colossal",
-            "5 + target\u0092s Defense"
+            "5 + target&#x92;s Defense"
         ],
         [
             "Gargantuan",
-            "10 + target\u0092s Defense"
+            "10 + target&#x92;s Defense"
         ],
         [
             "Huge",
-            "15 + target\u0092s Defense"
+            "15 + target&#x92;s Defense"
         ],
         [
             "Large",
-            "20 + target\u0092s Defense"
+            "20 + target&#x92;s Defense"
         ],
         [
             "Medium-size",
-            "25 + target\u0092s Defense"
+            "25 + target&#x92;s Defense"
         ],
         [
             "Small",
-            "30 + target\u0092s Defense"
+            "30 + target&#x92;s Defense"
         ]
     ]
 }

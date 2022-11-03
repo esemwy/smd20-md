@@ -9,11 +9,11 @@
     "rows": [
         [
             "15 + spell level",
-            "Identify a spell being cast. (You must see or hear the spell\u0092s verbal or somatic components.) You can\u0092t try again."
+            "Identify a spell being cast. (You must see or hear the spell&#x92;s verbal or somatic components.) You can&#x92;t try again."
         ],
         [
             "15 + spell level",
-            "Learn a spell from a spellbook or scroll. You can\u0092t try again for that spell until you gain at least 1 rank in Spellcraft."
+            "Learn a spell from a spellbook or scroll. You can&#x92;t try again for that spell until you gain at least 1 rank in Spellcraft."
         ],
         [
             "15 + spell level",
@@ -21,15 +21,15 @@
         ],
         [
             "15 + spell level",
-            "When casting detect magical aura, determine the school of magic involved in the aura of a single item or creature you can see. (If the aura isn\u0092t a spell effect, the DC is 15 + one-half caster level.)"
+            "When casting detect magical aura, determine the school of magic involved in the aura of a single item or creature you can see. (If the aura isn&#x92;t a spell effect, the DC is 15 + one-half caster level.)"
         ],
         [
             "20 + spell level",
-            "Identify a spell that\u0092s already in place and in effect. (You must be able to see or detect the effects of the spell.) You can\u0092t try again."
+            "Identify a spell that&#x92;s already in place and in effect. (You must be able to see or detect the effects of the spell.) You can&#x92;t try again."
         ],
         [
             "20 + spell level",
-            "Identify materials created or shaped by magic, such as noting that an iron wall is the result of a wall of iron spell. You can\u0092t try again."
+            "Identify materials created or shaped by magic, such as noting that an iron wall is the result of a wall of iron spell. You can&#x92;t try again."
         ],
         [
             "20 + spell level",
@@ -45,7 +45,7 @@
         ],
         [
             "30 or higher",
-            "Understand a strange or unique magical effect. You can\u0092t try again."
+            "Understand a strange or unique magical effect. You can&#x92;t try again."
         ]
     ]
 }

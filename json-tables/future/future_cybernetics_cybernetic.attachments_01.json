@@ -11,51 +11,51 @@
     ],
     "rows": [
         [
-            "01\u009608",
+            "01&#x96;08",
             "Blurred Vision: Character suffers a 20% miss chance on all attacks."
         ],
         [
-            "09\u009617",
-            "Constant Trembling: Character takes a \u00962 penalty on Dexterity-based skill checks."
+            "09&#x96;17",
+            "Constant Trembling: Character takes a &#x96;2 penalty on Dexterity-based skill checks."
         ],
         [
-            "18\u009625",
+            "18&#x96;25",
             "Cybernetic Rejection: Character suffers 1d4 points of Constitution damage per day."
         ],
         [
-            "26\u009634",
-            "Dizziness: Character takes a \u00961 penalty on attack rolls, saving throws, ability checks, and skill checks."
+            "26&#x96;34",
+            "Dizziness: Character takes a &#x96;1 penalty on attack rolls, saving throws, ability checks, and skill checks."
         ],
         [
-            "35\u009642",
-            "Impaired Hearing: Static distortion imposes a \u00962 penalty on all Listen checks."
+            "35&#x96;42",
+            "Impaired Hearing: Static distortion imposes a &#x96;2 penalty on all Listen checks."
         ],
         [
-            "43\u009650",
-            "Impaired Vision: Distorted images impose a \u00962 penalty on Spot checks."
+            "43&#x96;50",
+            "Impaired Vision: Distorted images impose a &#x96;2 penalty on Spot checks."
         ],
         [
-            "51\u009659",
+            "51&#x96;59",
             "Insomnia: Character can only sleep for minutes at a time and gains insufficient rest to heal naturally."
         ],
         [
-            "60\u009667",
+            "60&#x96;67",
             "Muscle Cramps: Character moves at half speed."
         ],
         [
-            "68\u009676",
-            "Muscle Fatigue: Character takes a \u00962 penalty on Strength-based skill checks."
+            "68&#x96;76",
+            "Muscle Fatigue: Character takes a &#x96;2 penalty on Strength-based skill checks."
         ],
         [
-            "77\u009684",
+            "77&#x96;84",
             "Power Surge: Character is shaken for 1 round if wounded; a successful Fortitude save (DC 12) negates."
         ],
         [
-            "85\u009693",
+            "85&#x96;93",
             "Psychosis: Character suffers 1d4 points of Charisma damage per day, lapsing into a coma if the score drops to 0."
         ],
         [
-            "94\u0096100",
+            "94&#x96;100",
             "Sensory Overload: Character is stunned for 1 round if wounded; a successful Fortitude save (DC 15) negates."
         ]
     ]

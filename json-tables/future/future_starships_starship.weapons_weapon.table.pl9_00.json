@@ -31,10 +31,10 @@
         [
             "Mine, null 4",
             "10d100 (550)",
-            "\u0097",
+            "&#x97;",
             "Energy",
-            "\u0097",
-            "\u0097",
+            "&#x97;",
+            "&#x97;",
             "Colossal",
             "53",
             "Mil (+3)"
@@ -73,7 +73,7 @@
             "Mil (+3)"
         ],
         [
-            "1 With a successful Repair check (DC 30) and 1 hour of work, this weapon can be modified for semiautomatic or automatic fire mode. Resetting the weapon to its original configuration requires another check and another hour of labor.  2 The purchase DC includes a basic launch system (missile rack or missile tube) and eight missiles with warheads. The purchase DC is 2 lower without the launch system.  3 In addition to taking damage, the ship is dazed for 1 round (see Starship Condition Summary).  4 This weapon\u0092s damage ignores a ship\u0092s hardness."
+            "1 With a successful Repair check (DC 30) and 1 hour of work, this weapon can be modified for semiautomatic or automatic fire mode. Resetting the weapon to its original configuration requires another check and another hour of labor.  2 The purchase DC includes a basic launch system (missile rack or missile tube) and eight missiles with warheads. The purchase DC is 2 lower without the launch system.  3 In addition to taking damage, the ship is dazed for 1 round (see Starship Condition Summary).  4 This weapon&#x92;s damage ignores a ship&#x92;s hardness."
         ]
     ]
 }

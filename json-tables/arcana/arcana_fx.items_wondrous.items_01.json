@@ -8,56 +8,56 @@
     ],
     "rows": [
         [
-            "01\u009608",
+            "01&#x96;08",
             "Bundle of cash (increase Wealth bonus by +2)"
         ],
         [
-            "09\u009615",
+            "09&#x96;15",
             "Loaded flare gun (with 3 extra rounds)"
         ],
         [
-            "16\u009622",
+            "16&#x96;22",
             "Gas mask (with an extra filter canister)"
         ],
         [
-            "23\u009630",
+            "23&#x96;30",
             "Night vision goggles"
         ],
         [
-            "31\u009644",
+            "31&#x96;44",
             "24-foot-long metal ladder"
         ],
         [
-            "45\u009651",
+            "45&#x96;51",
             "Diamondback X-20 mountain bike"
         ],
         [
-            "52\u009659",
+            "52&#x96;59",
             "Steel handcuffs"
         ],
         [
-            "60\u009668",
+            "60&#x96;68",
             "Portable generator (with full tank of gas)"
         ],
         [
-            "69\u009675",
+            "69&#x96;75",
             "Fire exitinguisher"
         ],
         [
-            "76\u009683",
+            "76&#x96;83",
             "Small bag of jewels (increase Wealth bonus by +4)"
         ],
         [
-            "84\u009690",
+            "84&#x96;90",
             "Cell phone (connects to any cellular network and works for 8 hours before becoming useless)"
         ],
         [
-            "91\u009696",
+            "91&#x96;96",
             "First aid kit"
         ],
         [
-            "97\u009600",
-            "Roll twice more, ignoring results of 97\u009600"
+            "97&#x96;00",
+            "Roll twice more, ignoring results of 97&#x96;00"
         ]
     ]
 }

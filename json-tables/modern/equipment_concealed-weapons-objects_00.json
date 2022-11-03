@@ -28,19 +28,19 @@
         ],
         [
             "Medium-size",
-            "\u00964"
+            "&#x96;4"
         ],
         [
             "Large",
-            "\u00968"
+            "&#x96;8"
         ],
         [
             "Huge or larger",
-            "can\u0092t conceal"
+            "can&#x92;t conceal"
         ],
         [
             "Clothing is tight or small",
-            "\u00964"
+            "&#x96;4"
         ],
         [
             "Clothing is especially loose or bulky",
@@ -56,11 +56,11 @@
         ],
         [
             "Weapon can be drawn normally",
-            "\u00962"
+            "&#x96;2"
         ],
         [
             "Weapon can be drawn as free action with Quick Draw feat",
-            "\u00964"
+            "&#x96;4"
         ]
     ]
 }

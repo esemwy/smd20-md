@@ -11,51 +11,51 @@
     ],
     "rows": [
         [
-            "01\u009635",
+            "01&#x96;35",
             "Normal critical hit"
         ],
         [
-            "36\u009650",
+            "36&#x96;50",
             "Normal critical hit, crew casualties"
         ],
         [
-            "51\u009655",
+            "51&#x96;55",
             "Severe critical hit, artificial gravity disabled"
         ],
         [
-            "56\u009660",
+            "56&#x96;60",
             "Severe critical hit, crew casualties"
         ],
         [
-            "61\u009665",
+            "61&#x96;65",
             "Damaged system: comm system"
         ],
         [
-            "66\u009670",
+            "66&#x96;70",
             "Damaged system: defense system"
         ],
         [
-            "71\u009675",
+            "71&#x96;75",
             "Damaged system: engines"
         ],
         [
-            "76\u009680",
+            "76&#x96;80",
             "Damaged system: sensors"
         ],
         [
-            "81\u009685",
+            "81&#x96;85",
             "Damaged system: targeting system"
         ],
         [
-            "86\u009690",
+            "86&#x96;90",
             "Damaged system: weapon"
         ],
         [
-            "91\u009695",
+            "91&#x96;95",
             "Destroyed defensive system"
         ],
         [
-            "96\u0096100",
+            "96&#x96;100",
             "Destroyed weapon"
         ]
     ]

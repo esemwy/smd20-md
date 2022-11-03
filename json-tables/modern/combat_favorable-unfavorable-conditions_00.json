@@ -13,23 +13,23 @@
     "rows": [
         [
             "Defender sitting or kneeling",
-            "\u00962",
+            "&#x96;2",
             "+2 1"
         ],
         [
             "Defender prone",
-            "\u00964",
+            "&#x96;4",
             "+4 1"
         ],
         [
             "Defender stunned or cowering",
-            "\u00962 2",
-            "\u00962 2"
+            "&#x96;2 2",
+            "&#x96;2 2"
         ],
         [
             "Defender climbing",
-            "\u00962 2",
-            "\u00962 2"
+            "&#x96;2 2",
+            "&#x96;2 2"
         ],
         [
             "Defender flat-footed",
@@ -48,7 +48,7 @@
         ],
         [
             "Defender pinned",
-            "\u00964 4",
+            "&#x96;4 4",
             "+0 4"
         ],
         [
@@ -58,14 +58,14 @@
         ],
         [
             "Defender has cover",
-            "\u0097\u0096\u0097 See Cover \u0097\u0096\u0097"
+            "&#x97;&#x96;&#x97; See Cover &#x97;&#x96;&#x97;"
         ],
         [
             "Defender concealed or invisible",
-            "\u0097 See Concealment \u0097"
+            "&#x97; See Concealment &#x97;"
         ],
         [
-            "1 Does not apply if target\n  is adjacent to attacker. This circumstance may instead improve bonus to Defense granted\n  by cover . See Cover .  2 The defender loses any Dexterity bonus to Defense .  3 Roll randomly to see which grappling combatant the character strikes. That defender loses any Dexterity bonus to Defense .  4 Treat the defender\u0092s Dexterity as 0 (\u00965 modifier)."
+            "1 Does not apply if target\n  is adjacent to attacker. This circumstance may instead improve bonus to Defense granted\n  by cover . See Cover .  2 The defender loses any Dexterity bonus to Defense .  3 Roll randomly to see which grappling combatant the character strikes. That defender loses any Dexterity bonus to Defense .  4 Treat the defender&#x92;s Dexterity as 0 (&#x96;5 modifier)."
         ]
     ]
 }
