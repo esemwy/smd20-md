@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Creature Sizes",
     "headers": [
-        [
-            "Table: Creature Sizes"
-        ],
         [
             "Size Category",
             "Size 1 Modifier",

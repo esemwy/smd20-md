@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Powers Discovered by Level",
     "headers": [
-        [
-            "Powers Discovered by Level"
-        ],
         [
             "Battle Mind Level",
             "Pts/Day",

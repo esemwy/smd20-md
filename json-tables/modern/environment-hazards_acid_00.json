@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Acid Damage",
     "headers": [
-        [
-            "Table: Acid Damage"
-        ],
         [
             "Acid Strength",
             "Splash Attack*",

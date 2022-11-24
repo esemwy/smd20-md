@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Power Level",
     "headers": [
-        [
-            "Power Level"
-        ],
         [
             "Power point cost"
         ]

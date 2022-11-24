@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Meteoroid Encounters",
     "headers": [
-        [
-            "Table: Meteoroid Encounters"
-        ],
         [
             "d% Roll",
             "Meteoroid Size",

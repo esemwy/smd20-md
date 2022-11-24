@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Damage Control System",
     "headers": [
-        [
-            "Table: Damage Control System"
-        ],
         [
             "Ship Type",
             "Hit Points Restored",

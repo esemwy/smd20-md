@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Vehicle Weapons",
     "headers": [
-        [
-            "Table: Vehicle Weapons"
-        ],
         [
             "Weapon",
             "Damage",

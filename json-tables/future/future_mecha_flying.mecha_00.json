@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Flight Maneuverability",
     "headers": [
-        [
-            "Table: Flight Maneuverability"
-        ],
         [
             "Maneuver",
             "Perfect",

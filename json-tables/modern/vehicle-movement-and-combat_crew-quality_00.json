@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Vehicle Crew Quality",
     "headers": [
-        [
-            "Table: Vehicle Crew Quality"
-        ],
         [
             "Crew Quality",
             "Check Modifier",

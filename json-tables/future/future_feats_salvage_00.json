@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "TABLE: SALVAGE",
     "headers": [
-        [
-            "TABLE: SALVAGE"
-        ],
         [
             "Salvaged Machine",
             "Time Required",

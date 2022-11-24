@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Vehicle Speeds and Modifiers",
     "headers": [
-        [
-            "Table: Vehicle Speeds and Modifiers"
-        ],
         [
             "Speed Category",
             "Character Scale",

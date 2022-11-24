@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Animals",
     "headers": [
-        [
-            "Table: Animals"
-        ],
         [
             "Size",
             "Str",

@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Destruction Threshold",
     "headers": [
-        [
-            "Table: Destruction Threshold"
-        ],
         [
             "Ship Type",
             "Destroyed At"

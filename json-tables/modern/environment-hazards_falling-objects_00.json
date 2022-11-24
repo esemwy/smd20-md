@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Damage from Falling Objects",
     "headers": [
-        [
-            "Table: Damage from Falling Objects"
-        ],
         [
             "Object Size",
             "Examples",

@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Weight per Number of Rounds",
     "headers": [
-        [
-            "Weight per Number of Rounds"
-        ],
         [
             "Damage",
             "10",

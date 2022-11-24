@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Diseases",
     "headers": [
-        [
-            "Table: Diseases"
-        ],
         [
             "Disease",
             "Type",

@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Ammunition",
     "headers": [
-        [
-            "Table: Ammunition"
-        ],
         [
             "Ammunition Type",
             "Purchase DC Modifier",

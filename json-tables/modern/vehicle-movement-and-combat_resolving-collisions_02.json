@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Collision Direction",
     "headers": [
-        [
-            "Table: Collision Direction"
-        ],
         [
             "Colliding Vehicle&#x92;s Target",
             "Multiplier"

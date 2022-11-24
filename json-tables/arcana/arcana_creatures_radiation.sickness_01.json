@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Radiation Sickness",
     "headers": [
-        [
-            "Table: Radiation Sickness"
-        ],
         [
             "Degree of Exposure",
             "Fort Save DC",

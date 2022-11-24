@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Check DCs For Transport Disks",
     "headers": [
-        [
-            "Table: Check DCs For Transport Disks"
-        ],
         [
             "Distance",
             "Navigate Check DC",

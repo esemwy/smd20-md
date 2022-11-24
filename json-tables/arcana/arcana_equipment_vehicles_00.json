@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Vehicles",
     "headers": [
-        [
-            "Table: Vehicles"
-        ],
         [
             "Name",
             "Crew",

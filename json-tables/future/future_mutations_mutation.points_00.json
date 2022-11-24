@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Mutations",
     "headers": [
-        [
-            "Table: Mutations"
-        ],
         [
             "d%",
             "Mutation Type",

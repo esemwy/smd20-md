@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Vehicle Sizes",
     "headers": [
-        [
-            "Table: Vehicle Sizes"
-        ],
         [
             "Vehicle Size",
             "Size Modifier",

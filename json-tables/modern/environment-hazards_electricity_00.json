@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Electricity Damage",
     "headers": [
-        [
-            "Table: Electricity Damage"
-        ],
         [
             "Type",
             "Examples",

@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Evacuation Times",
     "headers": [
-        [
-            "Table: Evacuation Times"
-        ],
         [
             "Ship Type",
             "Untrained Crew Evacuation Time",

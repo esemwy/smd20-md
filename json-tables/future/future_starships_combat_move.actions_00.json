@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Collision Damage",
     "headers": [
-        [
-            "Table: Collision Damage"
-        ],
         [
             "Size of Smaller Ship or Object",
             "Collision Damage 1"

@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Optional Critical Hit Results",
     "headers": [
-        [
-            "Table: Optional Critical Hit Results"
-        ],
         [
             "d% Roll",
             "Effect(s)"

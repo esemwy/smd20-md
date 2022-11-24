@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Mecha Critical Hits",
     "headers": [
-        [
-            "Table: Mecha Critical Hits"
-        ],
         [
             "d%",
             "Roll Effect(s)"

@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Substance Hardness and Hit Points",
     "headers": [
-        [
-            "Table: Substance Hardness and Hit Points"
-        ],
         [
             "Substance",
             "Hardness",

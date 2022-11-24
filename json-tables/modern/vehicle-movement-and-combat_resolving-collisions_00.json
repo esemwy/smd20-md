@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Collision Damage",
     "headers": [
-        [
-            "Table: Collision Damage"
-        ],
         [
             "Highest Speed",
             "Damage Die Type"

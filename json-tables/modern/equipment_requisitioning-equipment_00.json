@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Requisition Modifiers",
     "headers": [
-        [
-            "Table: Requisition Modifiers"
-        ],
         [
             "Situation",
             "Modifier"

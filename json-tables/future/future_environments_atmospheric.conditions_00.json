@@ -1,9 +1,6 @@
 {
-    "caption": "",
+    "caption": "Table: Decompression Times",
     "headers": [
-        [
-            "Table: Decompression Times"
-        ],
         [
             "Breach Size",
             "Decompression Time"
